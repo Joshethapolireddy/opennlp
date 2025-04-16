@@ -81,4 +81,5 @@ Currently, the library has different packages:
 You can import the core toolkit directly from Maven, SBT, or Gradle:
 
 #### Maven
-If you would like to get involved, please follow the instructions here.
+
+To get started with Maven, add the following dependency to your pom.xml:
